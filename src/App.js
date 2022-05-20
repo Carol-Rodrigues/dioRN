@@ -14,6 +14,9 @@ import {
 
 const colorGitHub = '#010409';
 const colorFontGH = '#C9D1D9';
+const colorDarkGreen = '#016c30';
+const colorLightGreen = '#22f122';
+const colorRed = 'red';
 const imageProfileGH = 'https://avatars.githubusercontent.com/u/81321335?v=4';
 const urlToMyGH = 'https://github.com/Carol-Rodrigues';
 
@@ -52,6 +55,134 @@ const App = () => {
             style={[style.defaultText, style.description]}>
                 Full Stack Web Developer | Software Engineering Student @42sp
             </Text>
+            {/* DIO */}
+            <View style={[style.changeFlex, style.firstCircle]}>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+            </View>
+            <View style={[style.changeFlex]}>
+                <View style={style.darkCircle}></View>
+                <View style={style.lightCircle}></View>
+                <View style={style.lightCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.lightCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.lightCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.redCircle}></View>
+                <View style={style.redCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.redCircle}></View>
+                <View style={style.redCircle}></View>
+                <View style={style.darkCircle}></View>
+            </View>
+            <View style={[style.changeFlex]}>
+                <View style={style.darkCircle}></View>
+                <View style={style.lightCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.lightCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.lightCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.lightCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.lightCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.redCircle}></View>
+                <View style={style.redCircle}></View>
+                <View style={style.redCircle}></View>
+                <View style={style.redCircle}></View>
+                <View style={style.redCircle}></View>
+                <View style={style.darkCircle}></View>
+            </View>
+            <View style={[style.changeFlex]}>
+                <View style={style.darkCircle}></View>
+                <View style={style.lightCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.lightCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.lightCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.lightCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.lightCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.redCircle}></View>
+                <View style={style.redCircle}></View>
+                <View style={style.redCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+            </View>
+            <View style={[style.changeFlex]}>
+                <View style={style.darkCircle}></View>
+                <View style={style.lightCircle}></View>
+                <View style={style.lightCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.lightCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.lightCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.redCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+            </View>
+            <View style={[style.changeFlex]}>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+                <View style={style.darkCircle}></View>
+            </View>
+            {/* Botão */}
             <Pressable onPress={handlePressGoToGithub}>
                 <View style={style.button}>
                     <Text style={[style.defaultText, style.textButton]}>
@@ -110,5 +241,32 @@ const style = StyleSheet.create({
     textButton: {
         fontSize: 16,
         fontWeight: 'bold',
+    },
+    darkCircle: {
+        borderRadius: 6,
+        backgroundColor: colorDarkGreen,
+        width: 15,
+        height: 15,
+        margin: 1,
+    },
+    lightCircle: {
+        borderRadius: 6,
+        backgroundColor: colorLightGreen,
+        width: 15,
+        height: 15,
+        margin: 1,
+    },
+    redCircle: {
+        borderRadius: 6,
+        backgroundColor: colorRed,
+        width: 15,
+        height: 15,
+        margin: 1,
+    },
+    firstCircle: {
+        marginTop: 15,
+    },
+    changeFlex: {
+        flexDirection: 'row',
     },
 });
